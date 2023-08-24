@@ -1,0 +1,9 @@
+pytorch==1.1.0
+torchvision==0.3.0
+scikit-image==0.15.0
+notebook
+numpy==1.14.5
+pandas
+matplotlib
+tqdm=4.32.1
+Pillow=5.1.0
